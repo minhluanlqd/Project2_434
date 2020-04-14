@@ -1,0 +1,16 @@
+
+Number of threads is: 6
+
+Hi I am Pthread 606877440 an I cannot find hidden key
+
+Hi I am Pthread 615270144 and I found hidden key in position A[7500]
+
+Hi I am Pthread 623662848 and I found hidden key in position A[5000]
+
+Hi I am Pthread 632055552 an I cannot find hidden key
+
+Hi I am Pthread 640448256 and I found hidden key in position A[2500]
+
+Hi I am Pthread 648840960 an I cannot find hidden key
+
+ Max is: 9999
