@@ -1,0 +1,10 @@
+
+Number of threads is: 3
+
+Hi I am Pthread 472868608 and I found hidden key in position A[5]
+
+Hi I am Pthread 481261312 and I found hidden key in position A[2]
+
+Hi I am Pthread 464475904 and I found hidden key in position A[6]
+
+ Max is: 99
