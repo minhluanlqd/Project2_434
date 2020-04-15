@@ -1,4 +1,3 @@
-
 Number of threads is: 10
 
 Hi I am Pthread 3369236224 an I cannot find hidden key
