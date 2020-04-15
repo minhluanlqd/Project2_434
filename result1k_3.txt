@@ -1,0 +1,8 @@
+
+Hi I am Pthread 2480535296 and I found hidden key in position A[750]
+
+Hi I am Pthread 2497320704 and I found hidden key in position A[500]
+
+Hi I am Pthread 2522498816 and I found hidden key in position A[250]
+
+Number of Thread is: 10

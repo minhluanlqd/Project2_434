@@ -1,8 +1,8 @@
 
-Hi I am Pthread 4273460992 and I found hidden key in position A[250000]
+Hi I am Pthread 542672640 and I found hidden key in position A[250000]
 
-Hi I am Pthread 471570176 and I found hidden key in position A[500000]
+Hi I am Pthread 1035749120 and I found hidden key in position A[500000]
 
-Hi I am Pthread 964646656 and I found hidden key in position A[750000]
+Hi I am Pthread 1528825600 and I found hidden key in position A[750000]
 
- Max is: 999999
+ Max is: 9999999
