@@ -1,0 +1,8 @@
+
+Hi I am Pthread 1844168448 and I found hidden key in position A[2]
+
+Hi I am Pthread 1844168448 and I found hidden key in position A[5]
+
+Hi I am Pthread 1844168448 and I found hidden key in position A[6]
+
+ Max is: 99
